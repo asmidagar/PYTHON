@@ -1,24 +1,24 @@
-#import keyword
-#from keyword import kwlist, softkwlist
-#from keyword import *
-#from keyword import kwlist as list
+import keyword
+from keyword import kwlist, softkwlist
+from keyword import *
+from keyword import kwlist as list
 
-'''print(keyword.kwlist)
+print(keyword.kwlist)
 print()
-print(keyword.softkwlist)'''
+print(keyword.softkwlist)
 
-#print(list)
-#print()
-#print(softkwlist)
+print(list)
+print()
+print(softkwlist)
 
 #WAp whether a given no is +ve, -ve or zero
-'''n = int(input("Enter number to check "))
+n = int(input("Enter number to check "))
 if(n < 0):
     print("Number is -ve")
 elif(n > 0):
     print("Number is +ve")
 else:
-    print("Number is zero")'''
+    print("Number is zero")
 
 year = int(input("Enter year "))
 if(year % 100 == 0):
