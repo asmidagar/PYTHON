@@ -94,7 +94,7 @@ Each folder contains:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Basic-Python.git
+   git clone https://github.com/asmidagar/Basic-Python.git
    ```
 
 2. Navigate to any topic folder
